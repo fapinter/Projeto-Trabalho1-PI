@@ -1,0 +1,10 @@
+20 11.00 Faca
+04 7.00 Colher
+69 120.00 Airfrier
+54 100.00 Panela
+09 6.00 Garfo
+17 20.00 Copos
+21 49.50 Prato
+46 39.00 Garrafa
+37 19.00 Pote
+18 50.00 Pano
